@@ -1,0 +1,161 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mini-Slides 2.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2007-09-01 15:00+0100\n"
+"Last-Translator: rr <rol@rm-r.at>\n"
+"Language-Team: Roland Rust <wordpress@designpraxis.at>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: AUSTRIA\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: E:\\www.designpraxis.at\\wordpress\\wp-content\\plugins\\\n"
+"X-Poedit-SearchPath-0: mini-slides\n"
+
+#: mini-slides/mini-slides.php:298
+#: mini-slides/mini-slides.php:309
+msgid "Your Mini-Slides Template"
+msgstr "Ihre Mini-Slides Vorlage"
+
+#: mini-slides/mini-slides.php:300
+msgid "has been successfully deleted"
+msgstr "wurde gelöscht"
+
+#: mini-slides/mini-slides.php:311
+msgid "has been successfully created"
+msgstr "wurde erfolgreich erstellt"
+
+#: mini-slides/mini-slides.php:318
+msgid "Mini-Slides"
+msgstr "Mini-Slides"
+
+#: mini-slides/mini-slides.php:320
+msgid "This is how minislides will appear on your blog"
+msgstr "So werden die Mini-Slides auf Ihrer Webseite aussehen"
+
+#: mini-slides/mini-slides.php:326
+#: mini-slides/mini-slides.php:501
+msgid "use"
+msgstr "benutzen Sie"
+
+#: mini-slides/mini-slides.php:327
+#: mini-slides/mini-slides.php:501
+msgid "within your post"
+msgstr "in Ihrem Beitrag"
+
+#: mini-slides/mini-slides.php:329
+msgid "Demo Images from"
+msgstr "Beispielbilder von"
+
+#: mini-slides/mini-slides.php:337
+msgid "Create a new Template"
+msgstr "Eine neue Vorlage erstellen"
+
+#: mini-slides/mini-slides.php:347
+msgid "New to Hex Color Codes? Grab Firefox "
+msgstr "Hex Farben sind neu für Sie? Benutzen Sie Firefox"
+
+#: mini-slides/mini-slides.php:360
+msgid "and the Firefox Extension"
+msgstr "zusammen mit der Erweiterung"
+
+#: mini-slides/mini-slides.php:369
+msgid "Template Name"
+msgstr "Vorlagenname"
+
+#: mini-slides/mini-slides.php:376
+msgid "Mini Slides Background"
+msgstr "Mini Slides Hintergrund"
+
+#: mini-slides/mini-slides.php:380
+#: mini-slides/mini-slides.php:412
+#: mini-slides/mini-slides.php:444
+msgid "Color"
+msgstr "Farbe"
+
+#: mini-slides/mini-slides.php:389
+#: mini-slides/mini-slides.php:421
+#: mini-slides/mini-slides.php:453
+msgid "#hex code"
+msgstr "#Hexcode"
+
+#: mini-slides/mini-slides.php:394
+msgid "Font Size"
+msgstr "Schriftgröße"
+
+#: mini-slides/mini-slides.php:403
+msgid "size, em, px, %"
+msgstr "size, em, px, %"
+
+#: mini-slides/mini-slides.php:408
+msgid "Mini Slides Outer Border"
+msgstr "Mini Slides äusserer Rahmen"
+
+#: mini-slides/mini-slides.php:426
+#: mini-slides/mini-slides.php:458
+msgid "Width"
+msgstr "Breite"
+
+#: mini-slides/mini-slides.php:435
+#: mini-slides/mini-slides.php:467
+msgid "px"
+msgstr "px"
+
+#: mini-slides/mini-slides.php:440
+msgid "Mini Slides Inner Border"
+msgstr "Mini Slides innerer Rahmen"
+
+#: mini-slides/mini-slides.php:472
+msgid "Load this Template as Default Template?"
+msgstr "Diese Vorlage als Voreinstellung speichern?"
+
+#: mini-slides/mini-slides.php:479
+msgid "Save Template"
+msgstr "Vorlage speichern"
+
+#: mini-slides/mini-slides.php:487
+msgid "Existing Templates"
+msgstr "Bestehende Vorlagen"
+
+#: mini-slides/mini-slides.php:497
+msgid "Edit"
+msgstr "Ändern"
+
+#: mini-slides/mini-slides.php:499
+msgid "Delete"
+msgstr "Löschen"
+
+#: mini-slides/mini-slides.php:510
+msgid "FYI"
+msgstr "Zu Ihrer Information"
+
+#: mini-slides/mini-slides.php:511
+msgid "You are currently using the"
+msgstr "Sie benutzen zur Zeit das"
+
+#: mini-slides/mini-slides.php:513
+msgid "theme"
+msgstr "Thema"
+
+#: mini-slides/mini-slides.php:514
+msgid "You need not to change anything within your theme's style.css, but you can."
+msgstr "Sie müssen im style.css ihres WordPress-Themas nichts ändern, aber Sie können, wenn SIe möchten..."
+
+#: mini-slides/mini-slides.php:519
+msgid "Running into Troubles? Features to suggest?"
+msgstr "Haben Sie Schwierigkeiten mit diesem Plugin? Oder Verbesserungsvorschläge?"
+
+#: mini-slides/mini-slides.php:521
+msgid "Drop me a line"
+msgstr "Schreiben Sie mir"
+
+#: mini-slides/mini-slides.php:526
+msgid "Do you like this Plugin?"
+msgstr "Hat Ihnen dieses Plugin geholfen?"
+
+#: mini-slides/mini-slides.php:583
+msgid ".thumbnail"
+msgstr ""
+
